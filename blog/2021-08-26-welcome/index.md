@@ -38,3 +38,5 @@ Callout (transformed by docusaurus.lua to Docusaurus native syntax)
 This is a callout.
 
 :::
+
+Math: $x + 1$
