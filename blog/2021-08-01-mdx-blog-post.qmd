@@ -8,13 +8,16 @@ output-ext: mdx
 
 Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).
 
-:::tip
+::: {.callout-tip}
 
 Use the power of React to create interactive blog posts.
 
-``` js
+```js
 <button onClick={() => alert('button clicked!')}>Click me!</button>
 ```
 
+```{=html}
 <button onClick={() => alert('button clicked!')}>Click me!</button>
+```
+
 :::
